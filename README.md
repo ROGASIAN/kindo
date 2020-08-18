@@ -103,6 +103,8 @@ asimilia 57 ya watoto
 wenye umri kati yamiaka 5–14
  walihudhuria elimu ya msingi</p>
 
+<center><b>kindo_for life</b></center>
+<center>copyright ©2020</center>
 </body>
 
 
