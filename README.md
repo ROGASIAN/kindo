@@ -4,6 +4,9 @@
 <title>kindo boy</title>
 
 <link href="home" >
+<a href="#" >home</a>
+<a href="#" >about</a>
+<a href="#" >service</a>
 </head>
 <body>
 <a href="home" >home</a>
