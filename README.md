@@ -3,7 +3,7 @@
 <head>
 <title>kindo boy</title>
 
-<link href="home" >
+
 <a href="#" >home</a>
 <a href="#" >about</a>
 <a href="#" >service</a>
