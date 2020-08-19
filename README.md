@@ -9,7 +9,6 @@
 <a href="#" >service</a>
 </head>
 <body>
-<a href="home" >home</a>
 <h1>Elimu nchini
 Tanzania</h1>
 
