@@ -2,6 +2,8 @@
 <html>
 <head>
 <title>kindo boy</title>
+
+<link href="home" >
 </head>
 <body>
 <h1>Elimu nchini
