@@ -6,6 +6,7 @@
 <link href="home" >
 </head>
 <body>
+<a href="home" >home</a>
 <h1>Elimu nchini
 Tanzania</h1>
 
