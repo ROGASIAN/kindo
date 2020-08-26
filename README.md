@@ -109,5 +109,5 @@ wenye umri kati yamiaka 5–14
 </body>
 
 
-<a href =" https://github.com/ROGASIAN/kindo/blob/master/index.html ">read also</a>
+<a href ="https://rogasian.github.io/rogashian.com/" >read also</a>
 </html>
