@@ -109,5 +109,5 @@ wenye umri kati yamiaka 5–14
 </body>
 
 
-<a href ="kindo/index.html">home</a>
+<a href =" kindo/index.html  ">read also</a>
 </html>
