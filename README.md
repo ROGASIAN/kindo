@@ -2,8 +2,8 @@
 <html>
 <head>
 <title>kindo boy</title>
-
-
+<link ref ="stylesheet" type="text/css" href="index.html"
+<a href ="index.html"home</a>
 <a href="#" >home</a>
 <a href="#" >about</a>
 <a href="#" >service</a>
