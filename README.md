@@ -2,11 +2,7 @@
 <html>
 <head>
 <title>kindo boy</title>
-<link ref ="stylesheet" type="text/css" href="index.html"
-<a href ="index.html"home</a>
-<a href="#" >home</a>
-<a href="#" >about</a>
-<a href="#" >service</a>
+
 </head>
 <body>
 <h1>Elimu nchini
@@ -113,5 +109,5 @@ wenye umri kati yamiaka 5–14
 </body>
 
 
-
+<a href ="kindo/index.html">home</a>
 </html>
